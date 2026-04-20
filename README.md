@@ -1,1 +1,1 @@
-# solar-invoice-demo
+# solar-proposal-demo
