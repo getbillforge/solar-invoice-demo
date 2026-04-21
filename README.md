@@ -1,1 +1,1 @@
-# solar-proposal-demo
+# solar-proposal-kit
